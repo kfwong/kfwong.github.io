@@ -1,7 +1,6 @@
 name: White Paper
 markdown: redcarpet
 highlighter: pygments
-url: http://0.0.0.0:4000/
 paginate: 10
 description: Jekyll theme for Programmers
 intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
