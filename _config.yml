@@ -1,9 +1,9 @@
-name: White Paper
+name: kfwong's lovely dev journal
+description: 
 markdown: redcarpet
 highlighter: pygments
 paginate: 10
-description: Jekyll theme for Programmers
-intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
+intro: A personal tech blog to dump my crappy notes... and stuff I find them interesting to share!
 logo: logo.png
 disqus_shortname:
 
